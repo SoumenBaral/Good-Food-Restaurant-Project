@@ -176,3 +176,15 @@
     gap: 10px;
     margin: 20px;
 }
+.footerContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 40px;
+    gap: 20px;
+}
+.footerContainer h1 , p{
+    margin-top: 30px;
+    margin-bottom: 5px;
+}
